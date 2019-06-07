@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create new">adcd2ecbdbf57300a740fe1b68961946</button>
+        <item_parameter display_value="Requested for Email">e31c668bdbf57300a740fe1b6896198b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-07 11:19:12</sys_created_on>
+        <sys_id>b6823ecfdbf57300a740fe1b68961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e31c668bdbf57300a740fe1b6896198b</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b6823ecfdbf57300a740fe1b68961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-07 11:19:12</sys_updated_on>
+        <ui_parameter display_value="Requested for email">d7b0fe4fdbf57300a740fe1b689619d9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
